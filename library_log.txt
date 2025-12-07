@@ -1,0 +1,2 @@
+2025-11-23 23:16:16,946 - INFO - Program started
+2025-11-23 23:16:16,954 - WARNING - Catalog file not found, starting with empty list
